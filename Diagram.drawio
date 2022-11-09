@@ -1,0 +1,77 @@
+<mxfile host="65bd71144e">
+    <diagram id="6fpXZGgGFf7uBuuq0vfP" name="Page-1">
+        <mxGraphModel dx="1719" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;fontSize=18;fontFamily=Unispace;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;WebScrapper&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Unispace;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="160" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=none;html=1;fontSize=18;fontFamily=Unispace;" edge="1" parent="1" source="3">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="420" y="390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="Sql DB" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Unispace;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="260" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="edgeStyle=none;html=1;fontFamily=Unispace;fontSize=18;" edge="1" parent="1" source="5" target="28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Api" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Unispace;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="360" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Unispace;fontSize=18;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8" target="2">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="140" y="90" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="Ebay-kleinanzeigen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Unispace;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="20" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="edgeStyle=none;html=1;fontSize=18;fontFamily=Unispace;" edge="1" parent="1" source="9" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="2ememain" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Unispace;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="20" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontFamily=Unispace;fontSize=18;" edge="1" parent="1" source="10" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Facebook-Marketplace" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Unispace;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="20" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontFamily=Unispace;" edge="1" parent="1" source="13" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="LeBonCoin" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Unispace;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="20" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontFamily=Unispace;" edge="1" parent="1" source="18" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Ebay" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Unispace;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="20" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;fontFamily=Unispace;" edge="1" parent="1" source="20" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Marktplaats" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Unispace;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;fontFamily=Unispace;" edge="1" parent="1" source="23" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Catawiki" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Unispace;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Website" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Unispace;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="460" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
